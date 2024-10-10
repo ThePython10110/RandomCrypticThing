@@ -3,7 +3,7 @@ If you want me, a random person you don't know, to be impressed by something you
 
 
 ```
-|:6.656765323$3.5$.235678.87898765756.5$.2$5676.09869.87.587.8765.0_=.=0_90.67869.90-09875:|`
+|:6.656765323$3.5$.235678.87898765756.5$.2$5676.09869.87.587.8765.0_=.=0_90.67869.90-09875:|
 ```
 
 Some people might figure out how to decipher it fairly easily (especially because of the `|:` and `:|`), but the source of
